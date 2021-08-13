@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Karizmator\source\repos\SDL2demo\SDL2demo\main.cpp(26,45): warning C4805: '==': unsafe mix of type 'const Uint8' and type 'bool' in operation
+C:\Users\Karizmator\source\repos\SDL2demo\SDL2demo\main.cpp(29,39): warning C4805: '==': unsafe mix of type 'const Uint8' and type 'bool' in operation
+C:\Users\Karizmator\source\repos\SDL2demo\SDL2demo\main.cpp(33,40): warning C4805: '==': unsafe mix of type 'const Uint8' and type 'bool' in operation
+C:\Users\Karizmator\source\repos\SDL2demo\SDL2demo\main.cpp(37,48): warning C4805: '==': unsafe mix of type 'const Uint8' and type 'bool' in operation
+C:\Users\Karizmator\source\repos\SDL2demo\SDL2demo\main.cpp(41,45): warning C4805: '==': unsafe mix of type 'const Uint8' and type 'bool' in operation
+  SDL2demo.vcxproj -> C:\Users\Karizmator\source\repos\SDL2demo\x64\Debug\SDL2demo.exe
